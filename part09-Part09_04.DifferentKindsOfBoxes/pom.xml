@@ -5,8 +5,8 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>tkt</groupId>
-    <artifactId>Part09_03.Warehousing</artifactId>
-    <name>Part09_03.Warehousing</name>
+    <artifactId>Part09_04.DifferentKindsOfBoxes</artifactId>
+    <name>Part09_04.DifferentKindsOfBoxes</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
@@ -14,7 +14,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-   
+    
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
